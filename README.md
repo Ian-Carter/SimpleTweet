@@ -1,3 +1,29 @@
+# Project 2 - *Simple Tweet*
+
+**Simple Tweet** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+
+Time spent: **3** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X ] User can **compose and post a new tweet**
+  - [ X] User can click a “Compose” icon in the Action Bar on the top right
+  - [X ] User can then enter a new tweet and post this to twitter
+  - [X ] User is taken back to home timeline with **new tweet visible** in timeline
+  - [X ] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+  - [X ] User can **see a counter with total number of characters left for tweet** on compose tweet page
+
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://media.giphy.com/media/Zgf3uXdj4hFi81KPAG/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 # Project 2 - *SimpleTweet*
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
